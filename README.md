@@ -62,7 +62,7 @@ Beberapa insight dari analisis:
 ```text
 .
 |-- data_perpindahan_pasien_kesehatan.xlsx
-|-- Febrian_Tugas_Visualisasi_Data_Multivariate_Kategorik (1).ipynb
+|-- Visualisasi Data Multivariat Kategorik Perpindahan Pasien Kesehatan.ipynb
 `-- README.md
 ```
 
