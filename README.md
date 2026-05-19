@@ -1,5 +1,7 @@
 # Visualisasi Data Multivariat Kategorik: Perpindahan Pasien Kesehatan
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GiIw4yrDCpCa0SyE3WydpGvHNA79o0Ra?usp=sharing)
+
 Project ini menganalisis data perpindahan pasien kesehatan menggunakan visualisasi multivariat kategorik. Fokus utama analisis adalah memahami distribusi jumlah pasien, rata-rata lama rawat, status BPJS, jenis penyakit, serta pola perpindahan pasien antar kota.
 
 ## Dataset
